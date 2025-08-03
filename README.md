@@ -1,7 +1,3 @@
-Here’s a polished and professional version of your project summary, ideal for GitHub and LinkedIn:
-
----
-
 # 🌍 World Population Report – Data Analysis Project #2
 
 Continuing to build my data analytics portfolio, I chose to work on a new project focused on **global population trends** using the *World Population Dataset* from Kaggle. This dataset contains 17 columns and thousands of records, providing a rich base for insight generation and visual storytelling.
@@ -47,6 +43,3 @@ The visuals help communicate complex data stories in a simple, compelling way.
 💡 *Tools Used*: Excel, SQL (DataGrip), Power BI
 📚 *Dataset Source*: [World Population – Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset)
 
----
-
-Would you like a short version for your LinkedIn post, or a project description for your portfolio site as well?
